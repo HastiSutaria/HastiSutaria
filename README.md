@@ -1,5 +1,6 @@
-### Hi there 👋
- <img align="centre"  src="https://img4.goodfon.com/wallpaper/nbig/8/b4/noutbuk-telefon-naushniki-kofe-tsvetok-tekhnika.jpg" width="700" height="400" />
+<h2> Hey there! I'm Hasti Sutaria. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<p align="left"> <img   src="https://komarev.com/ghpvc/?username=HastiSutaria" alt="#@$+!" /> </p>
+ <img align="right"  src="https://img4.goodfon.com/wallpaper/nbig/8/b4/noutbuk-telefon-naushniki-kofe-tsvetok-tekhnika.jpg" width="600" height="350" />
 
 <!--
 **HastiSutaria/HastiSutaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
