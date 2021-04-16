@@ -1,5 +1,5 @@
 ### Hi there 👋
- <img align="right"  src="https://st3.depositphotos.com/12071432/17599/i/600/depositphotos_175998670-stock-photo-cropped-shot-young-female-developer.jpg" width="500" height="320" />
+ <img align="centre"  src="https://img4.goodfon.com/wallpaper/nbig/8/b4/noutbuk-telefon-naushniki-kofe-tsvetok-tekhnika.jpg" width="700" height="400" />
 
 <!--
 **HastiSutaria/HastiSutaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
