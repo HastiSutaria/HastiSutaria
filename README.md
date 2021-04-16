@@ -1,7 +1,13 @@
 <h2> Hey there! I'm Hasti Sutaria. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <p align="left"> <img   src="https://komarev.com/ghpvc/?username=HastiSutaria" alt="#@$+!" /> </p>
 
+<h2 align = "left"> About Me 👩‍💻 </h2>
+
+<img align ="left" alt="whoami" src="https://github.com/HastiSutaria/HastiSutaria/blob/main/code.jpg" width="1000" height="400" />
+
+<br><br>
 <h2 align = "left"> Connect with me 🤝</h2>
+
 <a href="https://twitter.com/HastiSutaria">
   <img align="left" alt="Hasti Sutaria | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -11,7 +17,7 @@
 <a href="https://hasti-myportfolio.netlify.app/">
   <img align ="left" alt="hasti's portfolio width ="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="25" height="25"/>
  </a>
-
+<br> <br>
 <h2 align="left">Top languages 🌟</h2>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HastiSutaria&langs_count=10&theme=tokyonight&layout=compact" alt="toplang #@$+!" height="250" /></p>
