@@ -3,6 +3,7 @@
 <p align="left"> <img   src="https://komarev.com/ghpvc/?username=HastiSutaria" alt="#@$+!" /> </p>
  <img align="right"  src="https://img4.goodfon.com/wallpaper/nbig/8/b4/noutbuk-telefon-naushniki-kofe-tsvetok-tekhnika.jpg" width="450" height="350" />
 <br>
+ <img align="center"  src=" <img align="right"  src="https://img4.goodfon.com/wallpaper/nbig/8/b4/noutbuk-telefon-naushniki-kofe-tsvetok-tekhnika.jpg" width="450" height="350" />" width="450" height="350" />
 <!--<h4 align="center">Top languages 🌟</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HastiSutaria&langs_count=10&theme=tokyonight&layout=compact" alt="top lang" height="250" /></p>
 
