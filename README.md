@@ -13,7 +13,7 @@
 <br><br>
 <h2 align="left"> My Technical Stack 💻</h2>
 
-<h4> WEB DEVELOPMENT</h4><img align="right" height="250" width="475" alt="GIF" src="https://thumbs.dreamstime.com/b/media-developer-female-office-media-developer-female-office-176072085.jpg" />
+<h4> WEB DEVELOPMENT</h4><img align="right" height="275" width="450" alt="GIF" src="https://thumbs.dreamstime.com/b/media-developer-female-office-media-developer-female-office-176072085.jpg" />
 <p><img height="35" src="https://img.icons8.com/nolan/2x/html-5.png">
 <img height="35" src="https://img.icons8.com/officel/2x/css.png">
 <img height="35" src="https://img.icons8.com/color/2x/javascript.png">
