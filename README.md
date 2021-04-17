@@ -2,13 +2,14 @@
 <p align="left"> <img   src="https://komarev.com/ghpvc/?username=HastiSutaria" alt="#@$+!" /> </p>
 
 <h2 align = "left"> About Me 👩‍💻 </h2>
-<img align="right" alt="code" src="https://github.com/HastiSutaria/HastiSutaria/blob/main/code.jpg" width="500"/>
 
 - 👩‍🎓 I’m ICT engineering undergrad at Adani Institute of Infrastructure Engineering.<br>
 - 🌠 I’m Aspiring Web Designer | Python_Coder | Data_science_beginner | Learner_Forever.<br>
 - 🔎 I'm exploring the world of Data Science and Artificial intelligence.<br>
 - 💙 If not engineering, you can find me reading, dancing, painting, playing guitar, cycling or in the badminton court.
 <br><br>
+<img align="left" alt="code" src="https://github.com/HastiSutaria/HastiSutaria/blob/main/code.jpg" width="1000" height="500"/>
+<br> <br>
 
 <h2 align="left"> My Technical Stack 💻</h2>
 <h4> WEB DEVELOPMENT</h4>
