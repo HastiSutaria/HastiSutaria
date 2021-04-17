@@ -12,7 +12,7 @@
 <a href="https://hasti-myportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.icons8.com/fluent/2x/portfolio.png" width="50"/>
  </a>
- <a href="https://twitter.com/HastiSutaria" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/5MQ0gPAYYx7a/twitter" width="50" /></a>  
+ <a href="https://twitter.com/HastiSutaria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/twitter.png" width="50" /></a>  
  <a href="https://www.instagram.com/hastisutaria_25/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/instagram-new.png" width="50" /></a>  
  <a href="https://www.linkedin.com/in/hasti-sutaria-1907371b4/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/linkedin.png" width="50" /></a>
  <a href="mailto:hastisutaria.ict19@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/gmail.png"  width="50" /></a>
