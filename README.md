@@ -5,22 +5,23 @@
 
 <img align ="left" alt="whoami" src="https://github.com/HastiSutaria/HastiSutaria/blob/main/code.jpg" width="1000" height="400" />
 <br><br>
-<h2 align="left" My Technical Stack 💻</h2>
-<h4> WEB DEVELOPMENT</h4>
-<p><img height="40" src="https://img.icons8.com/nolan/2x/html-5.png">
+
+<h2 align="left"> My Technical Stack 💻</h2>
+<p><h4> WEB DEVELOPMENT</h4>
+<img height="40" src="https://img.icons8.com/nolan/2x/html-5.png">
 <img height="40" src="https://img.icons8.com/ios-filled/2x/css.png">
 <img height="40" src="https://img.icons8.com/color/2x/javascript.png">
 <img height="40" src="https://img.icons8.com/color/2x/bootstrap.png">
   <img height="40" src="https://img.icons8.com/wired/2x/wordpress.png">
   <img height="40" src="https://img.icons8.com/fluent/2x/php.png">
  </p>
- <h4>PROGRAMMING</h4>
- <p><img height="40" src="https://img.icons8.com/color/2x/python.png">
+ <p><h4>PROGRAMMING</h4>
+ <img height="40" src="https://img.icons8.com/color/2x/python.png">
   <img height="40" src="https://img.icons8.com/color/2x/c-programming.png">
   <img height="40" src="https://img.icons8.com/color/2x/mysql-logo.png">
   </p>
-  <h4> PLATFORMS</h4>
-  <p> <a href="https://github.com/HastiSutaria"><img height="40" src="https://img.icons8.com/ios-filled/2x/github.png">
+  <p><h4> PLATFORMS</h4>
+  <a href="https://github.com/HastiSutaria"><img height="40" src="https://img.icons8.com/ios-filled/2x/github.png">
   <a href="https://leetcode.com/hastisutaria25/"><img height="40" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png">
     <a href="https://auth.geeksforgeeks.org/user/hastisutariaict19"><img height="40" src="https://img.icons8.com/color/452/GeeksforGeeks.png">
       <a href="https://my-learning.w3schools.com/"><img height="40" src="https://image.pngaaa.com/977/3731977-middle.png">
@@ -37,7 +38,6 @@
  <a href="https://www.instagram.com/hastisutaria_25/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/instagram-new.png" width="50" /></a>  
  <a href="https://www.linkedin.com/in/hasti-sutaria-1907371b4/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/linkedin.png" width="50" /></a>
  <a href="mailto:hastisutaria.ict19@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/gmail.png"  width="50" /></a>
-
 <br> <br>
 <h2 align="left">Top languages 🌟</h2>
 
