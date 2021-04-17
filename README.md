@@ -4,10 +4,13 @@
 <h2 align = "left"> About Me 👩‍💻 </h2>
 
 <h3> Aspiring Web Designer | Python_Coder | Data_science_beginner | Learner_Forever</h3>
-<br>
--👩‍🎓I'm ICT engineering undergrad at Adani Institute of Infrastructure Engineering.
--🔍I'm exploring the world of data science and AI.
-<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/coder.gif" />
+<br><img align="right" height="250" width="375" alt="GIF" src="https://thumbs.dreamstime.com/b/media-developer-female-office-media-developer-female-office-176072085.jpg" />
+-👩‍🎓I'm ICT engineering undergrad at Adani Institute of Infrastructure Engineering.<br>
+-📁I'm tech enthusiast and a self taught programmer.<br>
+-🔍I'm exploring the world of data science and AI.<br>
+-⭐I'm a passionate learner who's always willing to learn and work across various technologies and domains.<br>
+-📘I'm currently into web development, python programming and freelancing.
+
 <br><br>
 <h2 align="left"> My Technical Stack 💻</h2>
 <h4> WEB DEVELOPMENT</h4>
