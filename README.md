@@ -8,9 +8,9 @@
 - 🔎 I'm exploring the world of Data Science and Artificial intelligence.<br>
 - 💙 If not engineering, you can find me reading, dancing, painting, playing guitar, cycling or in the badminton court.
 <br><br>
-<img align="left" alt="code" src="https://github.com/HastiSutaria/HastiSutaria/blob/main/code.jpg" width="1000" height="500"/>
-<br> <br>
+<img align="left" alt="code" src="https://github.com/HastiSutaria/HastiSutaria/blob/main/code.jpg" width="1000" height="400"/>
 
+<br><br>
 <h2 align="left"> My Technical Stack 💻</h2>
 <h4> WEB DEVELOPMENT</h4>
 <p><img height="35" src="https://img.icons8.com/nolan/2x/html-5.png">
