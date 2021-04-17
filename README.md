@@ -3,10 +3,8 @@
 
 <h2 align = "left"> About Me 👩‍💻 </h2>
 
-- <h3> Aspiring Web Designer | Python_Coder | Data_science_beginner | Learner_Forever</h3>
-- 🔎 I'm exploring the world of Data Science and Artificial intelligence.<br>
-
-<br><br>
+<h3> Aspiring Web Designer | Python_Coder | Data_science_beginner | Learner_Forever</h3>
+<br>
 <img align="left" alt="code" src="https://github.com/HastiSutaria/HastiSutaria/blob/main/code.jpg" width="1000" height="400"/>
 
 <br><br>
