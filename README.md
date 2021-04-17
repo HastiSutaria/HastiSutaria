@@ -5,8 +5,9 @@
 
 <h3> Aspiring Web Designer | Python_Coder | Data_science_beginner | Learner_Forever</h3>
 <br>
-<img align="left" alt="code" src="https://github.com/HastiSutaria/HastiSutaria/blob/main/code.jpg" width="1000" height="400"/>
-
+-👩‍🎓I'm ICT engineering undergrad at Adani Institute of Infrastructure Engineering.
+-🔍I'm exploring the world of data science and AI.
+<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/coder.gif" />
 <br><br>
 <h2 align="left"> My Technical Stack 💻</h2>
 <h4> WEB DEVELOPMENT</h4>
