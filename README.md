@@ -4,16 +4,17 @@
 <h2 align = "left"> About Me 👩‍💻 </h2>
 
 <h3> Aspiring Web Designer | Python_Coder | Data_science_beginner | Learner_Forever</h3>
-<br><img align="right" height="250" width="375" alt="GIF" src="https://thumbs.dreamstime.com/b/media-developer-female-office-media-developer-female-office-176072085.jpg" />
--👩‍🎓I'm ICT engineering undergrad at Adani Institute of Infrastructure Engineering.<br>
--📁I'm tech enthusiast and a self taught programmer.<br>
+<br>
+-👩‍🎓I'm a ICT engineering undergrad at Adani Institute of Infrastructure Engineering.<br>
+-📁I'm a tech enthusiast and a self taught programmer.<br>
 -🔍I'm exploring the world of data science and AI.<br>
 -⭐I'm a passionate learner who's always willing to learn and work across various technologies and domains.<br>
 -📘I'm currently into web development, python programming and freelancing.
 
 <br><br>
 <h2 align="left"> My Technical Stack 💻</h2>
-<h4> WEB DEVELOPMENT</h4>
+
+<h4> WEB DEVELOPMENT</h4><img align="right" height="250" width="375" alt="GIF" src="https://thumbs.dreamstime.com/b/media-developer-female-office-media-developer-female-office-176072085.jpg" />
 <p><img height="35" src="https://img.icons8.com/nolan/2x/html-5.png">
 <img height="35" src="https://img.icons8.com/ios-filled/2x/css.png">
 <img height="35" src="https://img.icons8.com/color/2x/javascript.png">
