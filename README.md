@@ -3,8 +3,8 @@
 
 <h2 align = "left"> About Me 👩‍💻 </h2>
 - 👩‍🎓 I’m ICT engineering undergrad at Adani Institute of Infrastructure Engineering.<br>
-- 🌠 I’m Aspiring Web Designer | Python_Coder | Data_science_beginner | Learner_Forever.
-- 🔎 I'm exploring the world of Data Science and Artificial intelligence.
+- 🌠 I’m Aspiring Web Designer | Python_Coder | Data_science_beginner | Learner_Forever.<br>
+- 🔎 I'm exploring the world of Data Science and Artificial intelligence.<br>
 - 💙 If not engineering, you can find me reading, dancing, painting, playing guitar, cycling or in the badminton court.
 
 <br><br>
