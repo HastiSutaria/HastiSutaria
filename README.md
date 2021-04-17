@@ -2,32 +2,34 @@
 <p align="left"> <img   src="https://komarev.com/ghpvc/?username=HastiSutaria" alt="#@$+!" /> </p>
 
 <h2 align = "left"> About Me 👩‍💻 </h2>
-
-<img align ="left" alt="whoami" src="https://github.com/HastiSutaria/HastiSutaria/blob/main/code.jpg" width="1000" height="400" />
+-👩‍🎓 &nbsp;I’m ICT engineering undergrad at Adani Institute of Infrastructure Engineering.
+-🌱 &nbsp;I’m Aspiring Web Designer | Python_Coder | Data_science_beginner | Learner_Forever.
+-🌍 &nbsp;I'm exploring the world of Data Science and Artificial intelligence.
+-💙 &nbsp;If not engineering, you can find me reading, dancing, painting, playing guitar, cycling or in the badminton court.
 <br><br>
 
 <h2 align="left"> My Technical Stack 💻</h2>
 <h4> WEB DEVELOPMENT</h4>
-<p><img height="40" src="https://img.icons8.com/nolan/2x/html-5.png">
-<img height="40" src="https://img.icons8.com/ios-filled/2x/css.png">
-<img height="40" src="https://img.icons8.com/color/2x/javascript.png">
-<img height="40" src="https://img.icons8.com/color/2x/bootstrap.png">
-  <img height="40" src="https://img.icons8.com/wired/2x/wordpress.png">
-  <img height="40" src="https://img.icons8.com/fluent/2x/php.png">
+<p><img height="35" src="https://img.icons8.com/nolan/2x/html-5.png">
+<img height="35" src="https://img.icons8.com/ios-filled/2x/css.png">
+<img height="35" src="https://img.icons8.com/color/2x/javascript.png">
+<img height="35" src="https://img.icons8.com/color/2x/bootstrap.png">
+  <img height="35" src="https://img.icons8.com/wired/2x/wordpress.png">
+  <img height="35" src="https://img.icons8.com/fluent/2x/php.png">
  </p>
  <h4>PROGRAMMING</h4>
- <p><img height="40" src="https://img.icons8.com/color/2x/python.png">
-  <img height="40" src="https://img.icons8.com/color/2x/c-programming.png">
-  <img height="40" src="https://img.icons8.com/color/2x/mysql-logo.png">
+ <p><img height="35" src="https://img.icons8.com/color/2x/python.png">
+  <img height="35" src="https://img.icons8.com/color/2x/c-programming.png">
+  <img height="35" src="https://img.icons8.com/color/2x/mysql-logo.png">
   </p>
   <h4> PLATFORMS</h4>
-  <p><a href="https://github.com/HastiSutaria"><img height="40" src="https://img.icons8.com/ios-filled/2x/github.png">
-  <a href="https://leetcode.com/hastisutaria25/"><img height="40" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png">
-    <a href="https://auth.geeksforgeeks.org/user/hastisutariaict19"><img height="40" src="https://img.icons8.com/color/452/GeeksforGeeks.png">
-      <a href="https://my-learning.w3schools.com/"><img height="40" src="https://image.pngaaa.com/977/3731977-middle.png">
-        <a href="https://www.hackerrank.com/hastisutaria_ic1"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png">
+  <p><a href="https://github.com/HastiSutaria"><img height="35" src="https://img.icons8.com/ios-filled/2x/github.png">
+  <a href="https://leetcode.com/hastisutaria25/"><img height="35" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png">
+    <a href="https://auth.geeksforgeeks.org/user/hastisutariaict19"><img height="35" src="https://img.icons8.com/color/452/GeeksforGeeks.png">
+      <a href="https://my-learning.w3schools.com/"><img height="35" src="https://image.pngaaa.com/977/3731977-middle.png">
+        <a href="https://www.hackerrank.com/hastisutaria_ic1"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png">
           </p>
-       <br> <br>
+       <br> 
 <h2 align = "left"> Connect with me 🤝</h2>
 
 
