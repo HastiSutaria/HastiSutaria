@@ -8,15 +8,15 @@
 <br><br>
 <h2 align = "left"> Connect with me 🤝</h2>
 
-<a href="https://twitter.com/HastiSutaria">
-  <img align="left" alt="Hasti Sutaria | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/hasti-sutaria-1907371b4/">
-  <img align="left" alt="hasti's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://hasti-myportfolio.netlify.app/">
-  <img align ="left" alt="hasti's portfolio width ="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="25" height="25"/>
+
+<a href="https://hasti-myportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/fluent/2x/portfolio.png" width="50"/>
  </a>
+ <a href="https://twitter.com/HastiSutaria" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/5MQ0gPAYYx7a/twitter" width="50" /></a>  
+ <a href="https://www.instagram.com/hastisutaria_25/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/instagram-new.png" width="50" /></a>  
+ <a href="https://www.linkedin.com/in/hasti-sutaria-1907371b4/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/linkedin.png" width="50" /></a>
+ <a href="mailto:hastisutaria.ict19@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/gmail.png"  width="50" /></a>
+
 <br> <br>
 <h2 align="left">Top languages 🌟</h2>
 
