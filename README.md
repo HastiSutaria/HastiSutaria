@@ -49,7 +49,8 @@
 <h2 align="left"> Github Statistics 📈 </h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HastiSutaria&langs_count=10&theme=tokyonight&layout=compact" alt="toplang #@$+!" height="250" width=45% /><img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HastiSutaria&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=40" alt="github stats #@$+!" height="250" width=45% />
-<img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=HastiSutaria&theme=tokyonight" />
+  <br>
+<img align="centre" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=HastiSutaria&theme=tokyonight" />
 </p>
 
 
