@@ -53,6 +53,9 @@
   <br>
 <img align="centre" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=HastiSutaria&theme=tokyonight" />
 </p>
+<br>
+<br>
+<h2> ⭐Don't just fork it! Please star it! ⭐ <h2>
 
 
   
