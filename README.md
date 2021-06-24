@@ -9,7 +9,7 @@
 -📁I'm a tech enthusiast and a self taught programmer.<br>
 -🔍I'm exploring the world of data science and AI.<br>
 -⭐I'm a passionate learner who's always willing to learn and work across various technologies and domains.<br>
--📘I'm currently into web development, python programming and freelancing.<br>
+-📘I'm currently into web development and python programming. Targeting towards Java.<br>
 -📑Do visit my blogging journey. Read my blogs <a href="https://hastisutariaict19.wixsite.com/blogs" target="_blank">here.</a> 
 <br><br>
 <h2 align="left"> My Technical Stack 💻</h2>
