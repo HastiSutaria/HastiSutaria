@@ -20,7 +20,7 @@
 <img height="35" src="https://img.icons8.com/color/2x/javascript.png">
 <img height="35" src="https://img.icons8.com/color/2x/bootstrap.png">
 <img height="35" src="https://img.icons8.com/dusk/2x/wordpress.png">
-<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png">
+<img height="35" src="https://img.icons8.com/ios/452/react-native--v1.png">
 <img height="35" src="https://img.icons8.com/fluent/2x/php.png">
   </p>
  <h4>PROGRAMMING</h4>
