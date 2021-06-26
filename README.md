@@ -21,6 +21,7 @@
 <img height="35" src="https://img.icons8.com/color/2x/bootstrap.png">
   <img height="35" src="https://img.icons8.com/dusk/2x/wordpress.png">
   <img height="35" src="https://img.icons8.com/fluent/2x/php.png">
+  <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png">
  </p>
  <h4>PROGRAMMING</h4>
  <p><img height="35" src="https://img.icons8.com/color/2x/python.png">
