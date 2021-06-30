@@ -56,7 +56,7 @@
 </p>
 <br>
 <br>
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=HastiSutaria&theme=juicyfresh&no-bg=true" /> -->
+<img src="https://github-profile-trophy.vercel.app/?username=HastiSutaria&theme=juicyfresh&no-bg=true" />
 
 
 
