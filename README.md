@@ -27,6 +27,8 @@
  <p><img height="35" src="https://img.icons8.com/color/2x/python.png">
   <img height="35" src="https://img.icons8.com/color/2x/c-programming.png">
   <img height="35" src="https://img.icons8.com/color/2x/mysql-logo.png">
+  
+  <img height = "35" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>
   </p>
   <h4> PLATFORMS</h4>
   <p><a href="https://github.com/HastiSutaria"><img height="35" src="https://img.icons8.com/color/2x/github.png">
