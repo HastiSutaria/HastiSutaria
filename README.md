@@ -33,7 +33,6 @@
   <h4> PLATFORMS</h4>
   <p><a href="https://github.com/HastiSutaria"><img height="35" src="https://img.icons8.com/color/2x/github.png">
   <a href="https://leetcode.com/hastisutaria25/"><img height="35" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png">
-    <a href="https://auth.geeksforgeeks.org/user/hastisutariaict19"><img height="35" src="https://img.icons8.com/color/452/GeeksforGeeks.png">
       <a href="https://my-learning.w3schools.com/"><img height="35" src="https://image.pngaaa.com/977/3731977-middle.png">
         <a href="https://www.hackerrank.com/hastisutaria_ic1"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png">
           </p>
