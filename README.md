@@ -9,8 +9,9 @@
 -📁I'm a tech enthusiast and a self taught programmer.<br>
 -🔍I'm exploring the world of data science and AI.<br>
 -⭐I'm a passionate learner who's always willing to learn and work across various technologies and domains.<br>
--📘I'm currently into web development and python programming. Targeting towards Java.<br>
--📑Do visit my blogging journey. Read my blogs <a href="https://hastisutariaict19.wixsite.com/blogs" target="_blank">here.</a> 
+-📘I'm currently into web development and Java.<br>
+-📑Do visit my blogging journey. Read my blogs <a href="https://medium.com/@hastisutaria.ict19
+" target="_blank">here.</a> 
 <br><br>
 <h2 align="left"> My Technical Stack 💻</h2>
 
@@ -46,6 +47,7 @@
  <a href="https://twitter.com/HastiSutaria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/twitter.png" width="50" /></a>  
  <a href="https://www.instagram.com/hastisutaria_25/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/instagram-new.png" width="50" /></a>  
  <a href="https://www.linkedin.com/in/hasti-sutaria-1907371b4/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/linkedin.png" width="50" /></a>
+ <a href ="https://medium.com/@hastisutaria.ict19" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/glyph-neue/64/000000/medium-logo.png" width="50" /></a>
  <a href="mailto:hastisutaria.ict19@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/gmail.png"  width="50" /></a>
 <br> <br>
 
