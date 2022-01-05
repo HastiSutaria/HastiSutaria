@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Hasti Sutaria. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Hasti Sutaria. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25"></h2>
 <p align="left"> <img   src="https://komarev.com/ghpvc/?username=HastiSutaria" alt="#@$+!" /> </p>
 
 <h2 align = "left"> About Me 👩‍💻 </h2>
