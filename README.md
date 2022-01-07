@@ -13,7 +13,7 @@
 -📑Do visit my blogging journey. Read my blogs <a href="https://medium.com/@hastisutaria.ict19
 " target="_blank">here.</a> 
 <br><br>
-<h2 align="left"> My Technical Stack 💻</h2>
+<h2 align="left"> My Technical Stack 💻 </h2>
 
 <h4> WEB DEVELOPMENT</h4><img align="right" height="275" width="450" alt="GIF" src="https://thumbs.dreamstime.com/b/media-developer-female-office-media-developer-female-office-176072085.jpg" />
 <p><img height="35" src="https://img.icons8.com/nolan/2x/html-5.png">
@@ -38,7 +38,7 @@
         <a href="https://www.hackerrank.com/hastisutaria_ic1"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png">
           </p>
        <br> 
-<h2 align = "left"> Connect with me 🤝</h2>
+<h2 align = "left"> Connect with me 🤝 </h2>
 
 
 <a href="https://hasti-myportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
