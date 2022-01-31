@@ -3,7 +3,7 @@
 
 <h2 align = "left"> About Me 👩‍💻 </h2>
 
-<h3> Aspiring Web Designer | Python_Coder | Data_science_beginner | Learner_Forever</h3>
+<h3> Aspiring Web Designer | ReactJS Developer | Data_science_beginner | Learner_Forever</h3>
 <br>
 -👩‍🎓I'm a ICT engineering undergrad at Adani Institute of Infrastructure Engineering.<br>
 -📁I'm a tech enthusiast and a self taught programmer.<br>
