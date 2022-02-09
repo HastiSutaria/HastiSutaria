@@ -41,7 +41,7 @@
 <h2 align = "left"> Connect with me 🤝 </h2>
 
 
-<a href="https://hasti-myportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
+<a href="https://hastisutaria.netlify.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.icons8.com/fluent/2x/portfolio.png" width="50"/>
  </a>
  <a href="https://twitter.com/HastiSutaria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/twitter.png" width="50" /></a>  
